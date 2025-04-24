@@ -1,0 +1,7 @@
+__pycache__
+DUMMY
+dataset
+logs
+outputs
+hifigan/generator_v1
+.venv
