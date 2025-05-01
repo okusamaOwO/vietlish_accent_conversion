@@ -1,0 +1,231 @@
+../drive/MyDrive/mini-vctk/wav48/p225/p225_001.wav|Please call Stella.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_002.wav|Ask her to bring these things with her from the store.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_004.wav|We also need a small plastic snake and a big toy frog for the kids.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_007.wav|The rainbow is a division of white light into many beautiful colors.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_008.wav|These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_009.wav|There is , according to legend, a boiling pot of gold at one end.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_010.wav|People look, but no one ever finds it.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_012.wav|Throughout the centuries people have explained the rainbow in various ways.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_013.wav|Some have accepted it as a miracle without physical explanation.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_014.wav|To the Hebrews it was a token that there would be no more universal floods.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_017.wav|Others have tried to explain the phenomenon physically.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_020.wav|Many complicated ideas about the rainbow have been formed.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_025.wav|Why do you want to come to Edinburgh ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_026.wav|How are you, sir ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_027.wav|So is that it, then ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_028.wav|Do I have a favourite ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_029.wav|What do we do ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_030.wav|People come into the Borders for the beauty of the background.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_033.wav|It's really no great surprise, because the price difference is so much.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_035.wav|A hostile bid is prevented for another nine months.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_036.wav|It was a close call.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_037.wav|In fact, they are the future of investment.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_038.wav|Diving is no part of football.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_039.wav|However, the decision has been welcomed by Scottish Enterprise officials.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_040.wav|You'd better believe it.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_044.wav|It was served by sheriff officers, not by the council.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_045.wav|People were determined to change the Government in the last election.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_046.wav|No details of the talks were given.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_049.wav|I have learned from him.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_051.wav|We are committed to the ban.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_052.wav|Already, he has been a tremendous influence in the dressing room.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_053.wav|I have made that offer.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_054.wav|Four other charges were dropped.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_056.wav|Clearly, it can go either way.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_057.wav|However, the City was in no doubt about the ultimate result.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_058.wav|However, the problem is the timing.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_059.wav|But retail banking would be run from Halifax.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_060.wav|Strathclyde police have appealed for witnesses.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_061.wav|Saddam is not the only example of evil in our world.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_062.wav|I was very pleased with them today, though.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_063.wav|Both sides have been hit by injury.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_064.wav|It could take some time.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_065.wav|There is no pressure on us.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_066.wav|It is a job creation scheme.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_067.wav|Thankfully, Mr Campbell was able to help.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_070.wav|That is bound to happen.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_071.wav|He is in the queue.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_072.wav|What kind of man does that, Mr Dick ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_073.wav|So, did she meet him ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_081.wav|I had no intention of misleading anyone.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_082.wav|That view is held by many others within the industry.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_083.wav|Western countries condemned the conduct of the poll.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_084.wav|He is delighted, and he has every right to be.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_086.wav|In fact, he should never have been in the field.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_089.wav|Officers recovered a second body in the area.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_090.wav|I did not have a bet on myself.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_092.wav|There is a contract in existence for Allan.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_094.wav|That's as it should be.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_103.wav|Everyone deserves to share in this success.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_104.wav|His is a success story by any standard.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_108.wav|Mr Chisholm said the move was made on the advice of consultants.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_109.wav|That might help a bit.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_110.wav|Thereafter, he set his mind on becoming a doctor.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_111.wav|It isn't a happy memory.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_113.wav|The big issue for us is the review.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_114.wav|I told him I was a long time ago.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_115.wav|Overall, it was a promising day for the Scots.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_116.wav|Yesterday the company reported a further downturn in profits.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_117.wav|We have no influence on the Government's policy on the euro.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_118.wav|We suffered a lot for seven years.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_120.wav|The industry is not well organised.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_121.wav|You get a lot for your money.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_122.wav|I didn't feel under any pressure.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_123.wav|It is the latter which has prompted the warning.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_124.wav|As for the warning, it was not needed.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_126.wav|The squad is too small.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_127.wav|It is a common problem.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_128.wav|Mr Hall is believed to have a broken leg.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_131.wav|Another High Street retailer was not so lucky.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_133.wav|I think he's the favourite.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_135.wav|We have seen a copy of the report.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_136.wav|But the Commission is on a collision course with the Government.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_141.wav|Drugs are used a lot at the fishing.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_142.wav|Well, you can have a tree.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_143.wav|Russell did not appeal the committee's decision.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_144.wav|She will do for me.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_145.wav|Why change it ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_147.wav|Does the name matter ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_149.wav|Shareholders will be asked to approve a new replacement scheme.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_150.wav|But he stressed that the partnership is not a construction company.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_151.wav|Nothing has been put into action.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_152.wav|The weather forecast isn't good.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_153.wav|We have a clean bill of health.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_156.wav|I would like to see the figures  for the second quarter.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_157.wav|He was asked to quit.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_158.wav|Inside, the atmosphere was quiet.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_159.wav|Neither side can win this war.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_165.wav|The Internet is no substitute for customer service.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_166.wav|Like last month, it is simply too early to make a call.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_169.wav|Irvine said his company was intent on supporting the Scottish dairy industry.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_171.wav|The report was criticised by the Scottish Consumer Council.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_172.wav|Nobody did in those days.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_173.wav|But the story of the play is worth a play in itself.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_174.wav|He was a big influence on our decision to make this show.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_175.wav|At that point, the structure of the board was changed.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_176.wav|Treatment is not an issue with these people.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_177.wav|The event was held in the council's headquarters in Hamilton.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_179.wav|They know no other way.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_182.wav|We are just glad to be alive.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_191.wav|People will ask about us.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_192.wav|However, this idea is never developed.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_193.wav|It's very difficult to find a buyer.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_195.wav|It is hard to tell.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_196.wav|I think, therefore I am ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_197.wav|Who was she ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_199.wav|And they were being paid ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_200.wav|It looked like a river.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_201.wav|The early goal was a shock to the system for Hearts.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_202.wav|The occasion was the New Labour conference in Brighton last year.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_203.wav|They have the cash and the fire power.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_208.wav|You are a great player.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_210.wav|Scotland will play its part.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_211.wav|He added that he was very sad about O Neill.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_212.wav|After that nothing could save him.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_218.wav|We used to live with dignity in our country.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_219.wav|They did not attack the themes of the book.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_220.wav|He would discuss the peace process in Northern Ireland.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_221.wav|It's all change at Kilmarnock.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_222.wav|In each case they were a goal down.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_223.wav|The police have an awful lot to explain.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_224.wav|He said that healthy eating was high on the council agenda.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_225.wav|It is good for our team.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_235.wav|I always felt that I was in control of the match.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_236.wav|That will be the criteria for the future.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_237.wav|Frankly, we were lucky to get second.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_238.wav|Paterson can afford to be generous.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_239.wav|In fact, he is not even in the squad for the game.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_240.wav|We are in the hat.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_241.wav|Well, they were the unlucky ones.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_242.wav|The singer is expected to be in hospital for several days.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_243.wav|The irony was not lost.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_244.wav|What was the matter for concern ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_248.wav|Does that put pressure on us ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_253.wav|Clearly, the need for a personal loan is written in the stars.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_254.wav|The problem was a social problem.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_257.wav|My son was too young to die.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_258.wav|We were not allowed to go to help them.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_264.wav|That should be the subject matter of a public debate.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_265.wav|It was a Budget for jobs for Scotland.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_266.wav|No other vehicle was involved in the crash.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_268.wav|I realised I was lucky to have it.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_273.wav|He has not created a Festival resource.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_274.wav|We have not reached the point of no return.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_275.wav|Similar measures are expected in England and Wales.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_276.wav|He will make an excellent chief inspector.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_277.wav|It depends on the internal discussions in the Ministry of Defence.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_279.wav|Everything happened so quickly, that we were taken by surprise.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_280.wav|Sadly, the revival could not be sustained.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_281.wav|They were not at the property yesterday.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_282.wav|It was at the Royal Concert Hall in Glasgow.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_285.wav|We have to break that cycle.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_286.wav|I wanted to change the formula.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_287.wav|She said the charity would continue to monitor the case.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_289.wav|Motherwell have no such good fortune.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_290.wav|Scotch beef is badly missed.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_291.wav|We would hope to make progress on that next year.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_293.wav|It's great, because it takes a lot of pressure off the players.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_294.wav|However, we had no failures in our side.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_295.wav|Clydesdale Bank declined to comment.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_296.wav|It goes back a long way.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_297.wav|Innocent people have a right to live in safety.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_298.wav|It was deployed in the Gulf War.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_299.wav|They had to learn to work from the consumer back.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_300.wav|I can hardly believe it.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_301.wav|I must do something about it.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_302.wav|Three hours later, the man was free.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_303.wav|And it had been a marvellous occasion.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_305.wav|Cast Away now on general release.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_308.wav|I thought his speech was a disgrace.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_309.wav|Are they free ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_310.wav|What are they for ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_312.wav|Do they think anyone else wants them ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_314.wav|We believe the world has too many refugees already.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_315.wav|The confidence is low, but it is a difficult thing to understand.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_316.wav|It is beyond the government to deal with this tragedy.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_317.wav|At the moment, it is very difficult to know.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_318.wav|The problem was he thought you were a big man.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_319.wav|There's still a bit to go.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_320.wav|We have a good healthy debate.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_322.wav|Funding for the science centre has come from a number of sources.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_323.wav|It is a court case.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_324.wav|There is no plan B.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_325.wav|The court was shown a video of the house on that day.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_326.wav|He will go a long way.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_328.wav|It is just a tax on employment.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_329.wav|There is no other solution to congestion in Edinburgh.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_330.wav|We are a peaceful people.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_331.wav|Ms Anderson yesterday put a brave face on the departure.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_332.wav|It's difficult to predict the future.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_334.wav|Plans to celebrate the Queen's Golden Jubilee will proceed.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_335.wav|We are in the end game.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_336.wav|I came into this world with nothing.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_337.wav|But they have the sound.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_346.wav|It wasn't a flight of fancy.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_347.wav|Boy is the town a mess.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_348.wav|Does it matter ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_349.wav|How do you take them away ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_350.wav|However, there is an issue, isn't there ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_351.wav|After the match, do you ?
+../drive/MyDrive/mini-vctk/wav48/p225/p225_352.wav|He was then replaced by Ross.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_353.wav|THE pain was almost too much to bear.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_354.wav|This action reflects a slump in bookings.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_355.wav|Her husband was very concerned that it might be fatal.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_356.wav|I said he was set to retire.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_357.wav|It is a sign of hope.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_358.wav|The commitment was not long, and it was worth the risk.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_359.wav|But we welcome this document.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_363.wav|There is The Beautiful Game to write.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_365.wav|You did not see it.
+../drive/MyDrive/mini-vctk/wav48/p225/p225_366.wav|It is linked to the row over proposed changes at Scottish Ballet.

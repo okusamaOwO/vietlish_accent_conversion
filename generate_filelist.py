@@ -1,25 +1,29 @@
 import os
 
-def generate_vctk_filelist(vctk_root, output_path, wav_ext=".wav"):
+def generate_vctk_filelist_split_dirs(wav_dir, txt_dir, output_path, wav_ext=".wav"):
     """
-    Generates a file list in the format: path_to_wav|text_of_audio
-    Assumes VCTK structure: {vctk_root}/{speaker}/{filename}.wav and .txt
-    
-    Parameters:
-        vctk_root (str): Root directory of VCTK dataset.
-        output_path (str): Path to write the output file list.
+    Generates a file list for FreeVC in the format: path_to_wav|text_of_audio
+    using VCTK layout where audio and text are in separate root dirs.
+
+    Args:
+        wav_dir (str): Path to 'wav48' directory.
+        txt_dir (str): Path to 'txt' directory.
+        output_path (str): Where to save the output file list.
         wav_ext (str): Audio file extension (default: '.wav').
     """
     entries = []
 
-    for speaker in sorted(os.listdir(vctk_root)):
-        speaker_dir = os.path.join(vctk_root, speaker)
-        if not os.path.isdir(speaker_dir):
+    for speaker in sorted(os.listdir(wav_dir)):
+        wav_speaker_dir = os.path.join(wav_dir, speaker)
+        txt_speaker_dir = os.path.join(txt_dir, speaker)
+
+        if not os.path.isdir(wav_speaker_dir) or not os.path.isdir(txt_speaker_dir):
             continue
-        for file in sorted(os.listdir(speaker_dir)):
+
+        for file in sorted(os.listdir(wav_speaker_dir)):
             if file.endswith(wav_ext):
-                wav_path = os.path.join(speaker_dir, file)
-                txt_path = wav_path.replace(wav_ext, ".txt")
+                wav_path = os.path.join(wav_speaker_dir, file)
+                txt_path = os.path.join(txt_speaker_dir, file.replace(wav_ext, ".txt"))
                 if os.path.exists(txt_path):
                     with open(txt_path, "r", encoding="utf-8") as f:
                         text = f.read().strip()
@@ -27,10 +31,11 @@ def generate_vctk_filelist(vctk_root, output_path, wav_ext=".wav"):
     
     with open(output_path, "w", encoding="utf-8") as out_f:
         out_f.write("\n".join(entries))
+    
+    print(f"Saved {len(entries)} entries to {output_path}")
 
-    print(f"File list saved to {output_path} with {len(entries)} entries.")
-
-generate_vctk_filelist(
-    vctk_root="/home/Datasets/lijingyi/data/vctk/wav48_silence_trimmed/",
+generate_vctk_filelist_split_dirs(
+    wav_dir="../drive/MyDrive/mini-vctk/wav48",
+    txt_dir="../drive/MyDrive/mini-vctk/txt",
     output_path="vctk_filelist.txt"
 )
