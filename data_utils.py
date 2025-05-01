@@ -16,7 +16,6 @@ import os
 import random
 import torch
 import numpy as np
-from utils import load_wav_to_torch, spectrogram_torch, load_filepaths_and_text
 from text import text_to_sequence, cleaned_text_to_sequence
 import commons  # for intersperse if add_blank is used
 
