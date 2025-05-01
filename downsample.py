@@ -2,13 +2,10 @@ import os
 import argparse
 import librosa
 import numpy as np
-from multiprocessing import Pool, cpu_count
 from scipy.io import wavfile
 from tqdm import tqdm
 
-
 def process(wav_name):
-    # speaker 's5', 'p280', 'p315' are excluded,
     speaker = wav_name[:4]
     wav_path = os.path.join(args.in_dir, speaker, wav_name)
     if os.path.exists(wav_path) and '_mic2.flac' in wav_path:
@@ -35,7 +32,6 @@ def process(wav_name):
             (wav2 * np.iinfo(np.int16).max).astype(np.int16)
         )
 
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--sr1", type=int, default=16000, help="sampling rate")
@@ -45,11 +41,8 @@ if __name__ == "__main__":
     parser.add_argument("--out_dir2", type=str, default="./dataset/vctk-22k", help="path to target dir")
     args = parser.parse_args()
 
-    pool = Pool(processes=cpu_count()-2)
-
     for speaker in os.listdir(args.in_dir):
         spk_dir = os.path.join(args.in_dir, speaker)
         if os.path.isdir(spk_dir):
-            for _ in tqdm(pool.imap_unordered(process, os.listdir(spk_dir))):
-                pass
-
+            for wav_name in tqdm(os.listdir(spk_dir), desc=f"Processing {speaker}"):
+                process(wav_name)

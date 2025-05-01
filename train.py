@@ -12,7 +12,10 @@ import torch.multiprocessing as mp
 import torch.distributed as dist
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.cuda.amp import autocast, GradScaler
+import logging
 
+numba_logger = logging.getLogger('numba')
+numba_logger.setLevel(logging.WARNING)
 import commons
 import utils
 from data_utils import (
