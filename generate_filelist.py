@@ -35,7 +35,7 @@ def generate_vctk_filelist_split_dirs(wav_dir, txt_dir, output_path, wav_ext=".w
     print(f"Saved {len(entries)} entries to {output_path}")
 
 generate_vctk_filelist_split_dirs(
-    wav_dir="../drive/MyDrive/mini-vctk/wav48",
+    wav_dir="/content/vietlish_accent_conversion/vctk16k",
     txt_dir="../drive/MyDrive/mini-vctk/txt",
     output_path="vctk_filelist.txt"
 )
