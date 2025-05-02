@@ -16,8 +16,8 @@ if __name__ == "__main__":
     parser.add_argument("--train_list", type=str, default="/content/vietlish_accent_conversion/filelists/train.txt")
     parser.add_argument("--val_list", type=str, default="/content/vietlish_accent_conversion/filelists/val.txt")
     parser.add_argument("--test_list", type=str, default="/content/vietlish_accent_conversion/filelists/test.txt")
-    parser.add_argument("--source_dir", type=str, default="/content/drive/MyDrive/dataset (1)/datasets/vctk-corpus/VCTK-Corpus/VCTK-Corpus/vctk-22", help="path to .wav files")
-    parser.add_argument("--txt_dir", type=str, default="/content/drive/MyDrive/dataset (1)/datasets/vctk-corpus/VCTK-Corpus/VCTK-Corpus/txt", help="path to .txt transcripts")
+    parser.add_argument("--source_dir", type=str, default="/content/dataset/datasets/vctk-corpus/VCTK-Corpus/VCTK-Corpus/vctk-22", help="path to .wav files")
+    parser.add_argument("--txt_dir", type=str, default="/content/dataset/datasets/vctk-corpus/VCTK-Corpus/VCTK-Corpus/txt", help="path to .txt transcripts")
     args = parser.parse_args()
     
     train, val, test = [], [], []
@@ -28,11 +28,16 @@ if __name__ == "__main__":
             continue
 
         wavs = [f for f in os.listdir(spk_dir) if f.endswith(".wav")]
-        shuffle(wavs)
+        shuffle(wavs)  # Shuffle before splitting to avoid bias
 
-        val += [(speaker, fname) for fname in wavs[:2]]
-        test += [(speaker, fname) for fname in wavs[-5:]]
-        train += [(speaker, fname) for fname in wavs[2:-5]]
+        total = len(wavs)
+        n_val = int(total * 0.1)
+        n_test = int(total * 0.1)
+        n_train = total - n_val - n_test
+
+        train += [(speaker, fname) for fname in wavs[:n_train]]
+        val += [(speaker, fname) for fname in wavs[n_train:n_train + n_val]]
+        test += [(speaker, fname) for fname in wavs[n_train + n_val:]]
 
     shuffle(train)
     shuffle(val)
@@ -47,7 +52,6 @@ if __name__ == "__main__":
                 if transcript:  # Only write if transcript exists
                     line = f"{wavpath}|{speaker}|{transcript}"
                     f.write(line + "\n")
-
-    write_list(args.train_list, train)
     write_list(args.val_list, val)
     write_list(args.test_list, test)
+    write_list(args.train_list, train)
