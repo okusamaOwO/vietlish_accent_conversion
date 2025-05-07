@@ -413,7 +413,7 @@ class SynthesizerTrn(nn.Module):
     z_slice, ids_slice = commons.rand_slice_segments(z, spec_lengths, self.segment_size)
     o = self.dec(z_slice, g=g)
     
-    return o, ids_slice, attn, text_mask, spec_mask, (z, z_p, m_p, logs_p, m_q, logs_q, m_p_text, logs_p_text)
+    return o, ids_slice, attn, spec_mask, (z, z_p, m_p, logs_p, m_q, logs_q, m_p_text, logs_p_text)
 
 def infer(self, c_audio=None, c_text=None, g=None, mel=None,
           c_audio_lengths=None, c_text_lengths=None,

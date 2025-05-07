@@ -59,3 +59,4 @@ def kl_loss(z_p, logs_q, m_p, logs_p, z_mask):
   kl = torch.sum(kl * z_mask)
   l = kl / torch.sum(z_mask)
   return l
+

@@ -11,15 +11,6 @@ from utils import load_wav_to_torch, load_filepaths_and_text, transform
 from text import text_to_sequence, cleaned_text_to_sequence
 #import h5py
 
-"""Multi speaker version"""
-import os
-import random
-import torch
-import numpy as np
-from utils import load_wav_to_torch, spectrogram_torch, load_filepaths_and_text
-from text import text_to_sequence, cleaned_text_to_sequence
-import commons  # for intersperse if add_blank is used
-
 class TextAudioSpeakerLoader(torch.utils.data.Dataset):
     """
     1) Loads audio, speaker_id (optional), text (optional)

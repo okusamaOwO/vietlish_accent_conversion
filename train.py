@@ -90,6 +90,12 @@ def run(rank, n_gpus, hps):
         p.requires_grad = False
     net_g.enc_spk.eval()     
 
+  # --- freeze content encoder ---
+  for p in net_g.enc_p.parameters():
+      p.requires_grad = False
+  net_g.enc_p.eval()
+
+
   net_d = MultiPeriodDiscriminator(hps.model.use_spectral_norm).cuda(rank)
 
 
@@ -163,7 +169,7 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
           hps.data.mel_fmax)
 
     with autocast(enabled=hps.train.fp16_run):
-      y_hat, ids_slice, attn, text_mask, z_mask,\
+      y_hat, ids_slice, attn, z_mask,\
       (z, z_p, m_p, logs_p, m_q, logs_q, m_p_text, logs_p_text) = net_g(c_audio, c_text, spec, g=g, mel=mel)
       
       y_mel = commons.slice_segments(mel, ids_slice, hps.train.segment_size // hps.data.hop_length)
