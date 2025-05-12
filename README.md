@@ -1,28 +1,27 @@
-# FreeVC: Towards High-Quality Text-Free One-Shot Voice Conversion
+# 🗣️ Vietlish Accent Conversion: Towards Hight Quality English Accent Conversion for Vietnamese people
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.15418)
-[![githubio](https://img.shields.io/static/v1?message=Audio%20Samples&logo=Github&labelColor=grey&color=blue&logoColor=white&label=%20&style=flat)](https://olawod.github.io/FreeVC-demo/)
-![GitHub Repo stars](https://img.shields.io/github/stars/OlaWod/FreeVC)
-![GitHub](https://img.shields.io/github/license/OlaWod/FreeVC)
+**Vietlish Accent Conversion** is an advanced framework that merges [FreeVC](https://github.com/OlaWod/FreeVC) and [VITS](https://github.com/jaywalnut310/vits), augmented with:
+- ✅ **Text encoder** for optional text-conditioned voice conversion
+- 🔁 **Monotonic Alignment Search (MAS)** for robust alignment between audio and text
+- 🎓 **Knowledge distillation** from a native TTS model
+- 🎤 **One-shot speaker transfer**
+- 🧠 **Pronunciation correction** and accent conversion for non-native speech
 
-In this [paper](https://arxiv.org/abs/2210.15418), we adopt the end-to-end framework of [VITS](https://arxiv.org/abs/2106.06103) for high-quality waveform reconstruction, and propose strategies for clean content information extraction without text annotation. We disentangle content information by imposing an information bottleneck to [WavLM](https://arxiv.org/abs/2110.13900) features, and propose the **spectrogram-resize** based data augmentation to improve the purity of extracted content information.
+---
 
-[🤗 Play online at HuggingFace Spaces](https://huggingface.co/spaces/OlaWod/FreeVC).
+## ✨ Highlights
 
-Visit our [demo page](https://olawod.github.io/FreeVC-demo) for audio samples.
+- Supports **text-free** and **text-conditioned** inference
+- Uses **WavLM** content encoders
+- Improves **non-native pronunciation** using synthetic native ground-truth data
+- Aligns text and audio using **MAS**, avoids unstable attention mechanisms
+- Trained with **shared decoder and distillation loss** between audio/text pathways
 
-We also provide the [pretrained models](https://1drv.ms/u/s!AnvukVnlQ3ZTx1rjrOZ2abCwuBAh?e=UlhRR5).
+---
 
-<table style="width:100%">
-  <tr>
-    <td><img src="./resources/train.png" alt="training" height="200"></td>
-    <td><img src="./resources/infer.png" alt="inference" height="200"></td>
-  </tr>
-  <tr>
-    <th>(a) Training</th>
-    <th>(b) Inference</th>
-  </tr>
-</table>
+## 🏗️ Architecture Overview
+
+
 
 ## Updates
 
