@@ -55,7 +55,7 @@ Vietlish Accent Conversionis built on a **VITS-style** conditional variational a
 
 - Train TTS (text-to-speech) model and pretrain AC (accent conversion) model **jointly**.
 - Shared decoder, speaker encoder, F0 encoder, normalizing flow.
-- Text path uses MAS for alignment, audio path uses WavLM or Wav2Vec2.0 + bottleneck extractor.
+- Text path uses MAS for alignment, audio path uses WavLM + bottleneck extractor.
 
 #### **2. Synthetic Ground Truth Generation**
 
