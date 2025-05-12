@@ -43,7 +43,6 @@ Vietlish Accent Conversionis built on a **VITS-style** conditional variational a
 | **Prior Encoders**    | - `θ_audio`: audio path using WavLM/Wav2Vec2.0 + bottleneck extractor<br> - `θ_text`: text path with MAS alignment |
 | **Normalizing Flow** | Transforms latent prior `z` → posterior space |
 | **HiFi-GAN Decoder** | Decodes latent `z` + speaker/F0 into waveform |
-| **F0 Encoder**        | Encodes pitch information |
 | **Speaker Encoder**  | Produces speaker embedding |
 | **MAS**              | Aligns text and speech latent representations |
 | **Distillation Loss**| KL divergence between audio/text priors |
